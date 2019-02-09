@@ -1,6 +1,6 @@
 {
   "name": "bee.fail",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "CLI variant of @beescuit's URL shortener ",
   "bin": "index.js",
   "main": "index.js",
