@@ -1,4 +1,4 @@
-# bee.fail-cli [![Build Status](https://travis-ci.org/dpaiv0/bee.fail-cli.svg?branch=master)](https://travis-ci.org/dpaiv0/bee.fail-cli) [![Standard code style](https://img.shields.io/badge/code_style-standard-5ed9c7.svg)](https://github.com/standard/standard)
+# bee.fail-cli [![Build Status](https://travis-ci.org/dpaiv0/bee.fail-cli.svg?branch=master)](https://travis-ci.org/dpaiv0/bee.fail-cli) [![Standard code style](https://img.shields.io/badge/code_style-standard-5ed9c7.svg)](https://github.com/standard/standard)[![NPM](https://img.shields.io/npm/v/bee.fail.svg)](https://npmjs.com/package/bee.fail)
 > CLI variant of @beescuit's URL shortener 
 
 <img src="https://i.imgur.com/CpvzDNO.gif">
@@ -11,13 +11,13 @@
 
 ## Install
 ```
-$ npm install --global bee-fail
+$ npm install --global bee.fail
 ```
 *(if npm screams at you because of permissions, run as `sudo`)*
 
 ## Usage
 ```
-$ bee-fail
+$ bee.fail
 ```
 
 ## Special thanks to
