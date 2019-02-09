@@ -1,4 +1,4 @@
-# bee.fail-cli [![Build Status](https://travis-ci.org/dpaiv0/bee.fail-cli.svg?branch=master)](https://travis-ci.org/dpaiv0/bee.fail-cli) [![Standard code style](https://img.shields.io/badge/code_style-standard-5ed9c7.svg)](https://github.com/standard/standard)[![NPM](https://img.shields.io/npm/v/bee.fail.svg)](https://npmjs.com/package/bee.fail)
+# bee.fail-cli [![Build Status](https://travis-ci.org/dpaiv0/bee.fail-cli.svg?branch=master)](https://travis-ci.org/dpaiv0/bee.fail-cli) [![Standard code style](https://img.shields.io/badge/code_style-standard-5ed9c7.svg)](https://github.com/standard/standard) [![NPM](https://img.shields.io/npm/v/bee.fail.svg)](https://npmjs.com/package/bee.fail)
 > CLI variant of @beescuit's URL shortener 
 
 <img src="https://i.imgur.com/CpvzDNO.gif">
