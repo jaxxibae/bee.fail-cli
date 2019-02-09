@@ -1,0 +1,51 @@
+{
+  "name": "bee.fail",
+  "version": "0.0.0",
+  "description": "CLI variant of @beescuit's URL shortener ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha lib/test --recursive"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  },
+  "engines": {
+    "node": "^10.12.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpaiv0/bee.fail-cli.git"
+  },
+  "keywords": [
+    "url-shortener",
+    "shorturl"
+  ],
+  "author": "David Paiva (@dpaiv0)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dpaiv0/bee.fail-cli/issues"
+  },
+  "homepage": "https://github.com/dpaiv0/bee.fail-cli#readme",
+  "devDependencies": {
+    "eslint": "^5.13.0",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-import": "^2.16.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-standard": "^4.0.0",
+    "mocha": "^5.2.0",
+    "mocha-standard": "^1.0.0",
+    "standard": "^12.0.1"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "clear": "^0.1.0",
+    "figlet": "^1.2.1",
+    "inquirer": "^6.2.2",
+    "ora": "^3.0.0",
+    "snekfetch": "^4.0.4"
+  }
+}
