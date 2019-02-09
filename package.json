@@ -1,7 +1,8 @@
 {
-  "name": "bee.fail",
+  "name": "@dpaiv0/bee-fail",
   "version": "1.0.0",
   "description": "CLI variant of @beescuit's URL shortener ",
+  "bin": "index.js",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
@@ -18,6 +19,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dpaiv0/bee.fail-cli.git"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [
     "url-shortener",

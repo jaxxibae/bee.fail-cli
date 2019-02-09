@@ -11,13 +11,13 @@
 
 ## Install
 ```
-$ npm install --global bee.fail
+$ npm install --global bee-fail
 ```
 *(if npm screams at you because of permissions, run as `sudo`)*
 
 ## Usage
 ```
-$ bee.fail
+$ bee-fail
 ```
 
 ## Special thanks to
